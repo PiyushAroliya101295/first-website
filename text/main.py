@@ -1,2 +1,4 @@
 import os
-print(os.get_blocking())
+# we are using os module to track
+print(os.getcwd())
+print(os.listdir())
